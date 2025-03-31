@@ -1,0 +1,5 @@
+[project]
+name = "langfuse-mcp"
+version = "0.1.0"
+description = "A Model Context Protocol (MCP) server for Langfuse, enabling AI agents to query Langfuse trace data for enhanced debugging and observability"
+requires-python = ">=3.10"
